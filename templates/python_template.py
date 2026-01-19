@@ -10,12 +10,6 @@ Brief description of the problem.
 
 Approach:
 High-level explanation of the chosen solution strategy.
-
-Time Complexity:
-O(?)
-
-Space Complexity:
-O(?)
 """
 
 
