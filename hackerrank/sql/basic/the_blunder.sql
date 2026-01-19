@@ -20,5 +20,5 @@ SELECT
     CEILING(
         AVG(CAST(Salary AS DECIMAL(10,2))) - 
         AVG(CAST(NULLIF(REPLACE(CAST(Salary AS VARCHAR(20)), '0', ''), '') AS DECIMAL(10, 2)))
-    ) AS 'error'
+    ) AS "error"
 FROM EMPLOYEES;
