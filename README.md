@@ -43,12 +43,34 @@ Rather than uploading every solved exercise, this repository focuses on problems
 
 ```markdown
 coding-challenges
+├── data_challenges/
+    ├── case_studies/
+    ├── pandas/
+    └── sql_analytics/
 ├── hackerrank/
+    ├── python/
+        ├── easy/
+        ├── hard/
+        └── medium/
+    └── sql/
+        ├── advanced/
+        ├── basic/
+            ├── the_pads.sql
+            └── type_of_triangle.sql
+        └── intermediate/
 ├── leetcode/
-├── data_challenges
+    ├── python/
+        ├── arrays/
+        ├── dynamic_programming/
+        ├── graphs
+        ├── hashing/
+        └── strings/
+    └── sql/
 └── templates/
     ├── python_template.py
     └── sql_template.sql
+.gitignore
+README.md
 ```
 
 Each solution includes:
