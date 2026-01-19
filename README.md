@@ -55,6 +55,7 @@ coding-challenges
     └── sql/
         ├── advanced/
         ├── basic/
+            ├── the_blunder.sql
             ├── the_pads.sql
             └── type_of_triangle.sql
         └── intermediate/

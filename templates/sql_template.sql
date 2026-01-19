@@ -4,6 +4,7 @@ Title:
 Platform: 
 Category: 
 Difficulty: 
+SQL Dialect: MS SQL Server
 
 Problem Summary:
 Brief description of the problem.

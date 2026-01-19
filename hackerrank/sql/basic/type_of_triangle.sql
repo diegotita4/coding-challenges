@@ -4,6 +4,7 @@ Title: Type of Triangle
 Platform: HackerRank
 Category: Conditional Logic
 Difficulty: Easy
+SQL Dialect: MS SQL Server
 
 Problem Summary:
 Given the lengths of three sides of a triangle, classify the triangle as Equilateral, Isosceles, Scalene, or Not A Triangle.

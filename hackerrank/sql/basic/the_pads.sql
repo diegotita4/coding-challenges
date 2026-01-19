@@ -4,6 +4,7 @@ Title: The PADS
 Platform: HackerRank
 Category: Aggregation & String Functions
 Difficulty: Medium
+SQL Dialect: MS SQL Server
 
 Problem Summary:
 Generate formatted output using names and occupations, and display the count of each occupation in a specific format.
