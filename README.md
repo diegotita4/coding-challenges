@@ -77,7 +77,6 @@ README.md
 Each solution includes:
 - A short problem description
 - The chosen approach
-- Time and space complexity (when applicable)
 - Clear and readable code
 
 ---
