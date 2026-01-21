@@ -16,6 +16,6 @@ Approach:
 */
 
 SELECT
-    CAST(ROUND(SUM(LAT_N), 2) AS DECIMAL(10, 2)) AS "sum_lat_n",
-    CAST(ROUND(SUM(LONG_W), 2) AS DECIMAL(10, 2)) AS "sum_long_w"
+    CAST(ROUND(SUM(LAT_N), 2) AS DECIMAL(10, 2)) AS [sum_lat_n]
+    , CAST(ROUND(SUM(LONG_W), 2) AS DECIMAL(10, 2)) AS [sum_long_w]
 FROM STATION;
