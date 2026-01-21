@@ -59,8 +59,8 @@ coding-challenges
             ├── the_pads.sql
             ├── top_earners.sql
             ├── type_of_triangle.sql
-            ├── weather_observation_station_2.sql
-            └── weather_observation_station_15.sql
+            ├── weather_observation_station_15.sql
+            └── weather_observation_station_2.sql
         └── intermediate/
 ├── leetcode/
     ├── python/
