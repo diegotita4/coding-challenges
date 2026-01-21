@@ -21,7 +21,7 @@ SELECT TOP 1
         salary * months,
         ' ',
         COUNT(*)
-    ) AS "result"
+    ) AS [result]
 FROM Employee
 GROUP BY salary * months
 ORDER BY salary * months DESC;
