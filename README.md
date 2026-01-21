@@ -55,6 +55,7 @@ coding-challenges
     └── sql/
         ├── advanced/
         ├── basic/
+            ├── average_population_of_each_continent.sql
             ├── population_census.sql
             ├── the_blunder.sql
             ├── the_pads.sql
