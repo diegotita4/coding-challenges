@@ -1,98 +1,121 @@
-# Coding Challenges – Data, SQL & Algorithms
 
-This repository contains a curated collection of coding challenges solved as part of my continuous learning and professional development journey.
+# Data & Analytics Practice Repository
 
-Rather than uploading every solved exercise, this repository focuses on problems that provided meaningful learning, reinforced key concepts, or introduced new techniques.
+A curated repository focused on strengthening data fundamentals and progressively scaling toward real-world analytics and data science & engineering projects.
 
----
-
-## Platforms
-- HackerRank
-- LeetCode
-
-## Languages
-- Python
-- SQL
+This space is not about volume, but about **intentional practice, clear reasoning, and continuous improvement**.
 
 ---
 
-## Focus Areas
+## Purpose
 
-### Algorithms & Programming
-- Data Structures
-- Algorithmic Thinking
-- Time & Space Complexity
-- Clean and Readable Code
+This repository serves as a personal learning and portfolio space where I:
 
-### SQL & Data Analytics
-- Aggregations
-- Joins
-- Subqueries
-- Window Functions
-- Analytical SQL Patterns
+- Practice core SQL and Python concepts through selected coding challenges
+- Document reasoning, assumptions, and analytical thinking
+- Transition gradually from platform-based exercises to real data projects, including:
+  - Exploratory Data Analysis (EDA)
+  - Data manipulation and transformation workflows
+  - Analytical case studies
+  - Introductory Machine Learning models
 
-### Data-Oriented Challenges
-- SQL Analytics
-- pandas-based data manipulation
-- Exploratory Data Analysis
-- Case-style problems
+---
+
+## Scope & Philosophy
+
+**What you will find here:**
+- Carefully selected challenges with strong learning value
+- Clear, readable, and well-documented solutions
+- Emphasis on correctness, edge cases, and analytical thinking
+
+**What you will NOT find here:**
+- Massive dumps of solved problems
+- Copy-paste or auto-generated solutions
+- Speed-focused or context-free answers
+
+Quality over quantity. Always.
+
+---
+
+## Languages & Tools
+
+- SQL (MS SQL Server dialect)
+- Python (pandas, numpy, matplotlib, scikit-learn)
+- Git & GitHub
+- Jupyter Notebooks
+
+*(Future extensions may include BI tools and cloud-based data platforms like Snowflake or Databricks.)*
 
 ---
 
 ## Repository Structure
 
-```markdown
-coding-challenges
-├── data_challenges/
-    ├── case_studies/
-    ├── pandas/
-    └── sql_analytics/
+```text
+.
 ├── hackerrank/
-    ├── python/
-        ├── easy/
-        ├── hard/
-        └── medium/
-    └── sql/
-        ├── advanced/
-        ├── basic/
-            ├── average_population_of_each_continent.sql
-            ├── employee_salaries.sql
-            ├── higher_than_75_marks.sql
-            ├── population_census.sql
-            ├── population_density_difference.sql
-            ├── the_blunder.sql
-            ├── the_pads.sql
-            ├── top_earners.sql
-            ├── type_of_triangle.sql
-            ├── weather_observation_station_12.sql
-            ├── weather_observation_station_15.sql
-            ├── weather_observation_station_17.sql
-            ├── weather_observation_station_2.sql
-            ├── weather_observation_station_3.sql
-            └── weather_observation_station_4.sql
-        └── intermediate/
+│   ├── python/
+│   │   ├── easy/
+│   │   ├── medium/
+│   │   └── hard/
+│   └── sql/
+│       ├── basic/
+│       │   ├── average_population_of_each_continent.sql
+│       │   ├── employee_salaries.sql
+│       │   ├── higher_than_75_marks.sql
+│       │   ├── population_census.sql
+│       │   ├── population_density_difference.sql
+│       │   ├── the_blunder.sql
+│       │   ├── the_pads.sql
+│       │   ├── top_earners.sql
+│       │   ├── type_of_triangle.sql
+│       │   ├── weather_observation_station_12.sql
+│       │   ├── weather_observation_station_15.sql
+│       │   ├── weather_observation_station_17.sql
+│       │   ├── weather_observation_station_2.sql
+│       │   ├── weather_observation_station_3.sql
+│       │   └── weather_observation_station_4.sql
+│       ├── intermediate/
+│       └── advanced/
 ├── leetcode/
-    ├── python/
-        ├── arrays/
-        ├── dynamic_programming/
-        ├── graphs
-        ├── hashing/
-        └── strings/
-    └── sql/
-└── templates/
-    ├── python_template.py
-    └── sql_template.sql
-.gitignore
-README.md
+│   ├── python/
+│   │   ├── arrays/
+│   │   ├── dynamic_programming/
+│   │   ├── graphs/
+│   │   ├── hashing/
+│   │   └── strings/
+│   └── sql/
+├── data_challenges/
+│   ├── pandas/
+│   ├── sql_analytics/
+│   └── case_studies/
+├── templates/
+│   ├── python_template.py
+│   └── sql_template.sql
+├── data/
+│   ├── raw/
+│   └── processed/
+├── .gitignore
+└── README.md
+.
 ```
-
-Each solution includes:
-- A short problem description
-- The chosen approach
-- Clear and readable code
 
 ---
 
-## Disclaimer
-All solutions are written for educational and portfolio purposes.
-Problem statements belong to their respective platforms.
+## Coding Standards
+
+- Explicit data type handling and rounding
+- Consistent formatting and naming conventions
+- Clear separation between problem context, approach, and solution
+- Readability prioritized over cleverness
+
+---
+
+## Final Note
+
+This repository evolves as my skills evolve.
+
+Early sections focus on fundamentals and structured problem-solving.
+
+Later sections aim to reflect real-world data analysis, science, adn engineering workflows.
+
+**Learning is iterative — this repo documents the journey.**
