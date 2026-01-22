@@ -63,7 +63,8 @@ coding-challenges
             ├── type_of_triangle.sql
             ├── weather_observation_station_15.sql
             ├── weather_observation_station_17.sql
-            └── weather_observation_station_2.sql
+            ├── weather_observation_station_2.sql
+            └── weather_observation_station_3.sql
         └── intermediate/
 ├── leetcode/
     ├── python/
