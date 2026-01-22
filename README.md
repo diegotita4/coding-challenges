@@ -64,7 +64,8 @@ coding-challenges
             ├── weather_observation_station_15.sql
             ├── weather_observation_station_17.sql
             ├── weather_observation_station_2.sql
-            └── weather_observation_station_3.sql
+            ├── weather_observation_station_3.sql
+            └── weather_observation_station_4.sql
         └── intermediate/
 ├── leetcode/
     ├── python/
