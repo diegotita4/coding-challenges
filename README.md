@@ -1,7 +1,7 @@
 
 # Data & Analytics Practice Repository
 
-A curated repository focused on strengthening data fundamentals and progressively scaling toward real-world analytics and data science & engineering projects.
+A curated repository focused on strengthening data fundamentals and progressively scaling toward real-world analytics and data science and engineering projects.
 
 This space is not about volume, but about **intentional practice, clear reasoning, and continuous improvement**.
 
