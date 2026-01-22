@@ -33,7 +33,7 @@ This repository serves as a personal learning and portfolio space where I:
 - Copy-paste or auto-generated solutions
 - Speed-focused or context-free answers
 
-Quality over quantity. Always.
+**Quality over quantity. _Always_.**
 
 ---
 
@@ -79,21 +79,11 @@ Quality over quantity. Always.
 ├── leetcode/
 │   ├── python/
 │   │   ├── arrays/
-│   │   ├── dynamic_programming/
-│   │   ├── graphs/
-│   │   ├── hashing/
 │   │   └── strings/
 │   └── sql/
-├── data_challenges/
-│   ├── pandas/
-│   ├── sql_analytics/
-│   └── case_studies/
 ├── templates/
 │   ├── python_template.py
 │   └── sql_template.sql
-├── data/
-│   ├── raw/
-│   └── processed/
 ├── .gitignore
 └── README.md
 .
@@ -112,10 +102,8 @@ Quality over quantity. Always.
 
 ## Final Note
 
-This repository evolves as my skills evolve.
+This repository evolves as my skills evolve:
+- Early sections focus on fundamentals and structured problem-solving.
+- Later sections aim to reflect real-world data analysis, science, adn engineering workflows.
 
-Early sections focus on fundamentals and structured problem-solving.
-
-Later sections aim to reflect real-world data analysis, science, adn engineering workflows.
-
-**Learning is iterative — this repo documents the journey.**
+**Learning is iterative; _this repo documents the journey_.**
