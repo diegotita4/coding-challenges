@@ -56,6 +56,7 @@ coding-challenges
         ├── advanced/
         ├── basic/
             ├── average_population_of_each_continent.sql
+            ├── employee_salaries.sql
             ├── higher_than_75_marks.sql
             ├── population_census.sql
             ├── population_density_difference.sql
