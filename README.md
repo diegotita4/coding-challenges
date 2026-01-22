@@ -42,9 +42,8 @@ This repository serves as a personal learning and portfolio space where I:
 - SQL (MS SQL Server dialect)
 - Python (pandas, numpy, matplotlib, scikit-learn)
 - Git & GitHub
-- Jupyter Notebooks
 
-*(Future extensions may include BI tools and cloud-based data platforms like Snowflake or Databricks.)*
+_(Future extensions may include Jupyter Notebooks, BI tools, and cloud-based data platforms like Snowflake or Databricks.)_
 
 ---
 
@@ -52,35 +51,39 @@ This repository serves as a personal learning and portfolio space where I:
 
 ```text
 .
-├── hackerrank/
-│   ├── python/
+├── python/
+│   ├── hackerrank/
 │   │   ├── easy/
-│   │   ├── medium/
-│   │   └── hard/
-│   └── sql/
-│       ├── basic/
-│       │   ├── average_population_of_each_continent.sql
-│       │   ├── employee_salaries.sql
-│       │   ├── higher_than_75_marks.sql
-│       │   ├── population_census.sql
-│       │   ├── population_density_difference.sql
-│       │   ├── the_blunder.sql
-│       │   ├── the_pads.sql
-│       │   ├── top_earners.sql
-│       │   ├── type_of_triangle.sql
-│       │   ├── weather_observation_station_12.sql
-│       │   ├── weather_observation_station_15.sql
-│       │   ├── weather_observation_station_17.sql
-│       │   ├── weather_observation_station_2.sql
-│       │   ├── weather_observation_station_3.sql
-│       │   └── weather_observation_station_4.sql
-│       ├── intermediate/
-│       └── advanced/
-├── leetcode/
-│   ├── python/
-│   │   ├── arrays/
-│   │   └── strings/
-│   └── sql/
+│   │   ├── hard/
+│   │   └── medium/
+│   └── leetcode/
+│       ├── easy/
+│       ├── hard/
+│       └── medium/
+├── sql/
+│   ├── hackerrank/
+│   │   ├── easy/
+│   │   │   ├── average_population_of_each_continent.sql
+│   │   │   ├── employee_salaries.sql
+│   │   │   ├── higher_than_75_marks.sql
+│   │   │   ├── population_census.sql
+│   │   │   ├── population_density_difference.sql
+│   │   │   ├── the_blunder.sql
+│   │   │   ├── the_pads.sql
+│   │   │   ├── top_earners.sql
+│   │   │   ├── type_of_triangle.sql
+│   │   │   ├── weather_observation_station_12.sql
+│   │   │   ├── weather_observation_station_15.sql
+│   │   │   ├── weather_observation_station_17.sql
+│   │   │   ├── weather_observation_station_2.sql
+│   │   │   ├── weather_observation_station_3.sql
+│   │   │   └── weather_observation_station_4.sql
+│   │   ├── hard/
+│   │   └── medium/
+│   └── leetcode/
+│       ├── easy/
+│       ├── hard/
+│       └── medium/
 ├── templates/
 │   ├── python_template.py
 │   └── sql_template.sql
