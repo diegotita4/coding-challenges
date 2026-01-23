@@ -2,7 +2,6 @@
 /*
 Title: Average Population of Each Continent
 Platform: HackerRank
-Category: Aggregation & Joins
 Difficulty: Easy
 SQL Dialect: MS SQL Server
 
