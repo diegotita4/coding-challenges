@@ -2,7 +2,6 @@
 /*
 Title: Type of Triangle
 Platform: HackerRank
-Category: Conditional Logic
 Difficulty: Easy
 SQL Dialect: MS SQL Server
 
