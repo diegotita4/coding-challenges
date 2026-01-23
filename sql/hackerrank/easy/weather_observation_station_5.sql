@@ -2,7 +2,6 @@
 /*
 Title: Weather Observation Station 5
 Platform: HackerRank
-Category: String Functions
 Difficulty: Easy
 SQL Dialect: MS SQL Server
 
