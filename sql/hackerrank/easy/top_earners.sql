@@ -2,7 +2,6 @@
 /*
 Title: Top Earners
 Platform: HackerRank
-Category: Aggregation
 Difficulty: Easy
 SQL Dialect: MS SQL Server
 
@@ -18,9 +17,9 @@ Approach:
 
 SELECT TOP 1
     CONCAT(
-        salary * months,
-        ' ',
-        COUNT(*)
+        salary * months
+        , ' '
+        , COUNT(*)
     ) AS [result]
 FROM Employee
 GROUP BY salary * months
