@@ -73,7 +73,6 @@ _(Future extensions may include Jupyter Notebooks, BI tools, and cloud-based dat
 │   │   │   ├── population_census.sql
 │   │   │   ├── population_density_difference.sql
 │   │   │   ├── the_blunder.sql
-│   │   │   ├── the_pads.sql
 │   │   │   ├── top_earners.sql
 │   │   │   ├── type_of_triangle.sql
 │   │   │   ├── weather_observation_station_12.sql
@@ -81,9 +80,13 @@ _(Future extensions may include Jupyter Notebooks, BI tools, and cloud-based dat
 │   │   │   ├── weather_observation_station_17.sql
 │   │   │   ├── weather_observation_station_2.sql
 │   │   │   ├── weather_observation_station_3.sql
-│   │   │   └── weather_observation_station_4.sql
+│   │   │   ├── weather_observation_station_4.sql
+│   │   │   └── weather_observation_station_5.sql
 │   │   ├── hard/
 │   │   └── medium/
+│   │       ├── new_companies.sql
+│   │       ├── the_pads.sql
+│   │       └── weather_observation_station_20.sql
 │   └── leetcode/
 │       ├── easy/
 │       ├── hard/
