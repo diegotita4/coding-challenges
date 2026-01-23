@@ -2,7 +2,6 @@
 /*
 Title: Population Density Difference
 Platform: HackerRank
-Category: Aggregation
 Difficulty: Easy
 SQL Dialect: MS SQL Server
 
