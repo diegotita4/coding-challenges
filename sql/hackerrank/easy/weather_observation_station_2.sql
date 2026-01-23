@@ -2,7 +2,6 @@
 /*
 Title: Weather Observation Station 2
 Platform: HackerRank
-Category: Aggregation
 Difficulty: Easy
 SQL Dialect: MS SQL Server
 
