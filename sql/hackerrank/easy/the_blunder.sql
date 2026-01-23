@@ -2,7 +2,6 @@
 /*
 Title: The Blunder
 Platform: HackerRank
-Category: Aggregation & Type Casting
 Difficulty: Easy
 SQL Dialect: MS SQL Server
 
