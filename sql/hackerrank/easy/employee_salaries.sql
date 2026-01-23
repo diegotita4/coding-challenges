@@ -2,7 +2,6 @@
 /*
 Title: Employee Salaries
 Platform: HackerRank
-Category: Filtering
 Difficulty: Easy
 SQL Dialect: MS SQL Server
 
