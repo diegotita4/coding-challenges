@@ -2,7 +2,6 @@
 /*
 Title: The PADS
 Platform: HackerRank
-Category: Aggregation & String Functions
 Difficulty: Medium
 SQL Dialect: MS SQL Server
 
