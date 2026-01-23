@@ -2,7 +2,6 @@
 /*
 Title: 
 Platform: 
-Category: 
 Difficulty: 
 SQL Dialect: MS SQL Server
 
