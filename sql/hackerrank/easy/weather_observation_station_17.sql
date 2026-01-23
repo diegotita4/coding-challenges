@@ -2,7 +2,6 @@
 /*
 Title: Weather Observation Station 17
 Platform: HackerRank
-Category: Filtering & Ordering
 Difficulty: Easy
 SQL Dialect: MS SQL Server
 
