@@ -85,7 +85,10 @@ _(Future extensions may include Jupyter Notebooks, BI tools, and cloud-based dat
 │   │   ├── hard/
 │   │   └── medium/
 │   │       ├── new_companies.sql
+│   │       ├── ollivanders_inventory.sql
+│   │       ├── the_competitors.sql
 │   │       ├── the_pads.sql
+│   │       ├── the_report.sql
 │   │       └── weather_observation_station_20.sql
 │   └── leetcode/
 │       ├── easy/
