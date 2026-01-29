@@ -84,8 +84,11 @@ _(Future extensions may include Jupyter Notebooks, BI tools, and cloud-based dat
 │   │   │   └── weather_observation_station_5.sql
 │   │   ├── hard/
 │   │   └── medium/
+│   │       ├── challenges.sql
+│   │       ├── contest_leaderboard.sql
 │   │       ├── new_companies.sql
 │   │       ├── ollivanders_inventory.sql
+│   │       ├── placements.sql
 │   │       ├── the_competitors.sql
 │   │       ├── the_pads.sql
 │   │       ├── the_report.sql
